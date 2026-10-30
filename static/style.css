@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f2f5;
+}
+
+.container {
+    width: 400px;
+    margin: 40px auto;
+    padding: 25px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #ccc;
+}
+
+h2, h1 {
+    text-align: center;
+}
+
+input:not([type="radio"]),
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    box-sizing: border-box;
+}
+
+button {
+    width: 100%;
+    padding: 12px;
+    background: #1769aa;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #084c83;
+}
