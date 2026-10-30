@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+PyMySQL
+python-dotenv
+Werkzeug
+reportlab==3.6.13
+gunicorn
